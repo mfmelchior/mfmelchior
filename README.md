@@ -15,6 +15,11 @@ Para além da área profissional, gosto de passar meu tempo livre com minhas dua
 - SQL do báisco ao avançado - UDEMY
 - HTML e CSS do básico ao avançado - UDEMY
 
+## Experiências:
+- Estágio em AWS Cloud Data Engineer de 07/2023 - 10/2023 
+- Estágio remoto meio período
+- Habilidades trabalhadas: Conhecimento em serviços AWS, trabalho em equipe, SQL e Python para análise de dados, trabalhando com a metodologia ágil Scrum com reuniões diárias para atualizações sobre os projetos em andamento e nova Sprint a cada 2 semanas para cada Squad.
+
 ## Contato
 - [LinkedIn](https://www.linkedin.com/in/maria-fernanda-melchior-correia-14867b2a0/)
 - E-mail: mmelchiorcorreia@gmail.com
