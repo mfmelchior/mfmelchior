@@ -5,9 +5,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-melchior-correia-14867b2a0/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mmelchiorcorreia@gmail.com)
 
-![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=mfmelchior&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfmelchior&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=mfmelchior&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfmelchior&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias
 
