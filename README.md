@@ -20,9 +20,10 @@
 </div>
 
 ## Sobre mim
-Sou estudante de ciência de dados pela UNINTER, apaixonada por dados e por front-end, me descobri apaixonada por programação depois de fazer um semestre de engenharia aeroespacial na UFABC, onde tive o primeiro contato com Python e nunca mais quis me distanciar! Então fui atrás da minha paixão: a tecnologia.
+Sou estudante de ciência de dados pela UNINTER, apaixonada por dados e por front-end 💻, me descobri apaixonada por programação depois de fazer um semestre de engenharia aeroespacial na UFABC, onde tive o primeiro contato com Python e nunca mais quis me distanciar! Então fui atrás da minha paixão: a tecnologia 👩‍💻.
+Para contato através do Gmail: mmelchiorcorreia@gmail.com
 <br>
-No tempo livre gosto de ficar na companhia das minhas duas gatinhas, Nailah e Ciça, além de lutar Krav Maga e ler livros de suspense.
+No tempo livre gosto de ficar na companhia das minhas duas gatinhas, Nailah e Ciça 😺😺, além de lutar Krav Maga 🤼🏽‍♀️ e ler livros de suspense 📚.
 
 ## Experiência:
 Participei do programa de estágio em Engenharia de dados com AWS na Compass UOL  de maio à outubro de 2023, onde tive contato direto com Python e SQL, manipulação de arquivos csv, controle de versionamento com git e GitHub, além de desenvolver o trabalho em equipe através da metodologia ágil Scrum.
