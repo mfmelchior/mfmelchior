@@ -3,7 +3,6 @@
 
 ## Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-melchior-correia-14867b2a0/)
-[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mmelchiorcorreia@gmail.com)
 
 ![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=mfmelchior&show_icons=true&theme=dracula) 
 
@@ -19,3 +18,11 @@
 <img align="center" alt = "SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt = "Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
+
+## Sobre mim
+Sou estudante de ciência de dados pela UNINTER, apaixonada por dados e por front-end, me descobri apaixonada por programação depois de fazer um semestre de engenharia aeroespacial an UFABC, onde tive o primeiro contato com Python e nunca mais quis me distanciar! Então fui atrás da minha paixão: a tecnologia.
+<br>
+No tempo livre gosto de ficar na companhia das minhas duas gatinhas, Nailah e Ciça, além de lutar Krav Maga e ler livros de suspense.
+
+## Experiência:
+Participei do programa de estágio em Engenharia de dados com AWS na Compass UOL  de maio à outubro de 2023, onde tive contato direto com Python e SQL, manipulação de arquivos csv, controle de versionamento com git e GitHub, além de desenvolver o trabalho em equipe através da metodologia ágil Scrum.
