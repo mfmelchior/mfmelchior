@@ -20,7 +20,7 @@
 </div>
 
 ## Sobre mim
-Sou estudante de ciência de dados pela UNINTER, apaixonada por dados e por front-end, me descobri apaixonada por programação depois de fazer um semestre de engenharia aeroespacial an UFABC, onde tive o primeiro contato com Python e nunca mais quis me distanciar! Então fui atrás da minha paixão: a tecnologia.
+Sou estudante de ciência de dados pela UNINTER, apaixonada por dados e por front-end, me descobri apaixonada por programação depois de fazer um semestre de engenharia aeroespacial na UFABC, onde tive o primeiro contato com Python e nunca mais quis me distanciar! Então fui atrás da minha paixão: a tecnologia.
 <br>
 No tempo livre gosto de ficar na companhia das minhas duas gatinhas, Nailah e Ciça, além de lutar Krav Maga e ler livros de suspense.
 
