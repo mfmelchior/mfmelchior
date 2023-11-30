@@ -7,6 +7,8 @@
 
 ![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=mfmelchior&show_icons=true&theme=dracula)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfmelchior&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias
 
 <div style="display: inline_block"><br/>
