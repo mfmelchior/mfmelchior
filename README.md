@@ -1,25 +1,18 @@
-## Sobre Mim
-Olá! Meu nome é Maria Fernanda Melchior Correia, tenho 20 anos e sou apaixonada por desenvolvimento web e dados. Aliás, qualquer coisa envolvendo tecnologia me ganha, mas front-end e ciência de dados têm meu coração! :heart:
-Para além da área profissional, gosto de passar meu tempo livre com minhas duas gatinhas, Nailah e Ciça :smiley_cat: :smiley_cat: , também gosto de lutar Krav Maga e sou apaixonada por livros de suspense :books: !
 
-## Habilidades
-- Linguagens: Python, SQL, HTML e CSS.
-- Controle de versionamento de código com Git e Github.
-- Soft Skills: Proatividade, trabalho em equipe, comunicação eficiente, pensamento crítico e autodidatismo.
+### Olá, eu sou a Maria Fernanda 🙋🏻‍♀️
 
-## Formação e cursos
-- Cursando ciência de dados na UNINTER com previsão de conclusão para julho/2025.
-- Estudando com um curso de imersão de front-end na escola DNC.
-- Hardware e Software - Fundação Badesco
-- Soluções ágeis - SEBRAE
-- SQL do báisco ao avançado - UDEMY
-- HTML e CSS do básico ao avançado - UDEMY
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-melchior-correia-14867b2a0/)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mmelchiorcorreia@gmail.com)
 
-## Experiências:
-- Estágio em AWS Cloud Data Engineer na empresa Compass UOL de 06/2023 - 10/2023 
-- Estágio remoto meio período
-- Habilidades trabalhadas: Conhecimento em serviços AWS, trabalho em equipe, SQL e Python para análise de dados, trabalhando com a metodologia ágil Scrum com reuniões diárias para atualizações sobre os projetos em andamento e nova Sprint a cada 2 semanas para cada Squad.
+![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=mfmelchior&show_icons=true&theme=dracula)
 
-## Contato
-- [LinkedIn](https://www.linkedin.com/in/maria-fernanda-melchior-correia-14867b2a0/)
-- E-mail: mmelchiorcorreia@gmail.com
+## Tecnologias
+
+<div style="display: inline_block"><br/>
+<img align="center" alt = "HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt = "CSS" src="	https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt = "JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img align="center" alt = "Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt = "SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img align="center" alt = "Postgresql" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
